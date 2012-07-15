@@ -60,12 +60,6 @@
     <!-- INTERFACE -->
     <header android:title="@string/header_category_interface" />
 
-    <!-- Launcher -->
-    <header
-        android:id="@+id/launcher_settings"
-        android:title="@string/launcher_settings_title"
-        android:icon="@drawable/ic_settings_cmlauncher" />
-
     <!-- Lock screen -->
     <header
         android:id="@+id/lock_screen_settings"
